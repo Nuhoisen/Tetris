@@ -1,0 +1,20 @@
+﻿  Zeltoid.cpp
+d:\kelly\documents\programming\visual studio\projects\tetris\tetris\tetris\zeltoid.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  TShape.cpp
+  Square.cpp
+d:\kelly\documents\programming\visual studio\projects\tetris\tetris\tetris\square.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Shape.cpp
+  LShape.cpp
+  Generating Code...
+  Compiling...
+  main.cpp
+d:\kelly\documents\programming\visual studio\projects\tetris\tetris\tetris\main.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\kelly\documents\programming\visual studio\projects\tetris\tetris\tetris\main.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\kelly\documents\programming\visual studio\projects\tetris\tetris\tetris\zeltoid.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\kelly\documents\programming\visual studio\projects\tetris\tetris\tetris\main.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\kelly\documents\programming\visual studio\projects\tetris\tetris\tetris\square.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  ShapeGenerator.cpp
+d:\kelly\documents\programming\visual studio\projects\tetris\tetris\tetris\square.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\kelly\documents\programming\visual studio\projects\tetris\tetris\tetris\zeltoid.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  Tetris.vcxproj -> D:\kelly\Documents\programming\Visual Studio\Projects\Tetris\Tetris\Debug\Tetris.exe
